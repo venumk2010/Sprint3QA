@@ -53,7 +53,7 @@ Lib-View=1
 vuser_end=0
 [Modified Actions]
 vuser_init=0
-Action=0
+Action=1
 Lib-View=0
 vuser_end=0
 [Replayed Actions]
@@ -66,8 +66,8 @@ Order="01C_OnBoard_User_001_Launch_URL__*delimiter*__01C_OnBoard_User_002_ClickS
 [StateManagement]
 LastReplayStatus=3
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 01C_OnBoard_User_001_Launch_URL=
 01C_OnBoard_User_002_ClickSignUp=

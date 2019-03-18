@@ -25,104 +25,13 @@
     <FileEntry Name="TruClientScriptMetadata.xml" Filter="2" />
     <FileEntry Name="TC.xsl" Filter="2" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="2" />
-    <FileEntry Name="combined_01C_Onboard_User.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
-    <FileEntry Name="01C_Onboard_User.c.pickle" Filter="1" />
-    <FileEntry Name="01C_Onboard_User.ci" Filter="1" />
     <FileEntry Name="01C_Onboard_User.prm.bak" Filter="1" />
-    <FileEntry Name="05_Onboarding_User.prm.bak" Filter="1" />
-    <FileEntry Name="122407615440.idx" Filter="1" />
-    <FileEntry Name="12240761544_ftD.555.idx" Filter="1" />
-    <FileEntry Name="12240761544_Mhs.441.idx" Filter="1" />
-    <FileEntry Name="12240761544_P05.185.idx" Filter="1" />
-    <FileEntry Name="12240761544_PNA.755.idx" Filter="1" />
-    <FileEntry Name="12240761544_q8u.191.idx" Filter="1" />
-    <FileEntry Name="12240761544_w2v.433.idx" Filter="1" />
-    <FileEntry Name="12240761544_YAR.583.idx" Filter="1" />
-    <FileEntry Name="12240761544_YAR.829.idx" Filter="1" />
-    <FileEntry Name="12240761544_zvl.929.idx" Filter="1" />
-    <FileEntry Name="141032051440.idx" Filter="1" />
-    <FileEntry Name="14103205144_1C7.398.idx" Filter="1" />
-    <FileEntry Name="14103205144_6lq.770.idx" Filter="1" />
-    <FileEntry Name="14103205144_Dbl.968.idx" Filter="1" />
-    <FileEntry Name="14103205144_dkK.252.idx" Filter="1" />
-    <FileEntry Name="14103205144_Ia3.574.idx" Filter="1" />
-    <FileEntry Name="14103205144_k68.350.idx" Filter="1" />
-    <FileEntry Name="14103205144_Mwo.872.idx" Filter="1" />
-    <FileEntry Name="14103205144_R3M.668.idx" Filter="1" />
-    <FileEntry Name="14103205144_rVi.730.idx" Filter="1" />
-    <FileEntry Name="14103205144_wAj.756.idx" Filter="1" />
-    <FileEntry Name="14103205144_XDP.168.idx" Filter="1" />
-    <FileEntry Name="199684065440.idx" Filter="1" />
-    <FileEntry Name="19968406544_b3w.864.idx" Filter="1" />
-    <FileEntry Name="19968406544_Ia3.220.idx" Filter="1" />
-    <FileEntry Name="19968406544_Ia3.436.idx" Filter="1" />
-    <FileEntry Name="19968406544_Ia3.704.idx" Filter="1" />
-    <FileEntry Name="19968406544_Ia3.828.idx" Filter="1" />
-    <FileEntry Name="19968406544_JcG.738.idx" Filter="1" />
-    <FileEntry Name="19968406544_K8E.266.idx" Filter="1" />
-    <FileEntry Name="19968406544_w8G.570.idx" Filter="1" />
-    <FileEntry Name="221569703440.idx" Filter="1" />
-    <FileEntry Name="22156970344_0xj.865.idx" Filter="1" />
-    <FileEntry Name="22156970344_1iD.571.idx" Filter="1" />
-    <FileEntry Name="22156970344_4Gk.45.idx" Filter="1" />
-    <FileEntry Name="22156970344_5GL.265.idx" Filter="1" />
-    <FileEntry Name="22156970344_7CQ.311.idx" Filter="1" />
-    <FileEntry Name="22156970344_A0i.573.idx" Filter="1" />
-    <FileEntry Name="22156970344_dHY.267.idx" Filter="1" />
-    <FileEntry Name="22156970344_lrp.257.idx" Filter="1" />
-    <FileEntry Name="22156970344_QU5.221.idx" Filter="1" />
-    <FileEntry Name="22156970344_QU5.437.idx" Filter="1" />
-    <FileEntry Name="22156970344_QU5.705.idx" Filter="1" />
-    <FileEntry Name="22156970344_QU5.829.idx" Filter="1" />
-    <FileEntry Name="22156970344_sgv.657.idx" Filter="1" />
-    <FileEntry Name="22156970344_YAR.59.idx" Filter="1" />
-    <FileEntry Name="22156970344_YAR.645.idx" Filter="1" />
-    <FileEntry Name="22156970344_z25.739.idx" Filter="1" />
-    <FileEntry Name="244110999440.idx" Filter="1" />
-    <FileEntry Name="253453197440.idx" Filter="1" />
-    <FileEntry Name="25345319744_5mv.757.idx" Filter="1" />
-    <FileEntry Name="25345319744_fRh.969.idx" Filter="1" />
-    <FileEntry Name="25345319744_hlN.351.idx" Filter="1" />
-    <FileEntry Name="25345319744_hLN.669.idx" Filter="1" />
-    <FileEntry Name="25345319744_HoJ.873.idx" Filter="1" />
-    <FileEntry Name="25345319744_HV5.399.idx" Filter="1" />
-    <FileEntry Name="25345319744_IaK.731.idx" Filter="1" />
-    <FileEntry Name="25345319744_ktX.771.idx" Filter="1" />
-    <FileEntry Name="25345319744_OKt.761.idx" Filter="1" />
-    <FileEntry Name="25345319744_PtE.169.idx" Filter="1" />
-    <FileEntry Name="25345319744_QU5.575.idx" Filter="1" />
-    <FileEntry Name="25345319744_XKp.253.idx" Filter="1" />
-    <FileEntry Name="264257695440.idx" Filter="1" />
-    <FileEntry Name="26425769544_1pW.397.idx" Filter="1" />
-    <FileEntry Name="26425769544_8Lc.349.idx" Filter="1" />
-    <FileEntry Name="26425769544_am3.967.idx" Filter="1" />
-    <FileEntry Name="26425769544_cDP.667.idx" Filter="1" />
-    <FileEntry Name="26425769544_gza.167.idx" Filter="1" />
-    <FileEntry Name="26425769544_Mbc.729.idx" Filter="1" />
-    <FileEntry Name="26425769544_o1B.871.idx" Filter="1" />
-    <FileEntry Name="26425769544_TeI.251.idx" Filter="1" />
-    <FileEntry Name="26425769544_xHC.755.idx" Filter="1" />
-    <FileEntry Name="26425769544_YAR.573.idx" Filter="1" />
-    <FileEntry Name="26425769544_yK7.769.idx" Filter="1" />
-    <FileEntry Name="265304168440.idx" Filter="1" />
-    <FileEntry Name="26530416844_0IU.265.idx" Filter="1" />
-    <FileEntry Name="26530416844_Lof.737.idx" Filter="1" />
-    <FileEntry Name="26530416844_NQW.863.idx" Filter="1" />
-    <FileEntry Name="26530416844_xWC.569.idx" Filter="1" />
-    <FileEntry Name="26530416844_YAR.219.idx" Filter="1" />
-    <FileEntry Name="26530416844_YAR.435.idx" Filter="1" />
-    <FileEntry Name="26530416844_YAR.703.idx" Filter="1" />
-    <FileEntry Name="26530416844_YAR.827.idx" Filter="1" />
-    <FileEntry Name="79876076440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
-    <FileEntry Name="default.cfg.bak" Filter="1" />
     <FileEntry Name="interactive_replay_Chromium.txt" Filter="1" />
-    <FileEntry Name="logfile.log" Filter="1" />
-    <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrvdMh.963.log" Filter="1" />
     <FileEntry Name="mdrvLoc.755.log" Filter="1" />
     <FileEntry Name="mdrvMBE.915.log" Filter="1" />
@@ -130,16 +39,10 @@
     <FileEntry Name="mdrvsCl.559.log" Filter="1" />
     <FileEntry Name="mdrvY9s.547.log" Filter="1" />
     <FileEntry Name="mdrvZ5A.687.log" Filter="1" />
-    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
-    <FileEntry Name="options.txt" Filter="1" />
-    <FileEntry Name="output.bak" Filter="1" />
-    <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
-    <FileEntry Name="TruClient23.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
-    <FileEntry Name="result1\" Filter="1" />
     <FileEntry Name="results\" Filter="1" />
     <FileEntry Name="resultSnap\" Filter="1" />
   </GeneralFiles>
