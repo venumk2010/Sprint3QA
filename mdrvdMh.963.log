@@ -1,0 +1,13 @@
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Notify: Transaction "01C_OnBoard_User_003_Click_Onboard_User" started.	[MsgId: MMSG-16999]
+t=00335211ms: Step 9: Click on ONBOARD AS USER button started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00335575ms: Step 9: Click on ONBOARD AS USER button successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_003_Click_Onboard_User" ended with a "Pass" status (Duration: 0.3660 Wasted Time: 0.2000).	[MsgId: MMSG-16871]
+t=00335578ms: Step 10: Wait 5 seconds started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00340784ms: Step 10: Wait 5 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_004_Enter_Mandatory_Details" started.	[MsgId: MMSG-16999]
+t=00341287ms: Step 11: Click on PROFILE IMAGE   OPTIONALChoose... textbox started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00361681ms: Error -205177: Step 11: Click on PROFILE IMAGE   OPTIONALChoose... textbox failed - Target object was not found. Identification Method: Automatic       Snapshot Info [MSH 3 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

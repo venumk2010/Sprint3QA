@@ -1,0 +1,38 @@
+Virtual User Script started at : 2019-03-18 10:11:59
+TruClient Replay (build 1053) for LoadRunner 12.60.0, build 0971. OS: Windows 2016, Browser: Chromium 63.0.3239.132, initialized on 2019/03/18 at 10:11:59 (1552903919.064s)
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "01C_OnBoard_User_001_Launch_URL" started.
+t=00001222ms: Step 1: Navigate to "https://qa.fintechmart....etplace/landing" started    [MsgId: MMSG-205180]
+t=00006243ms: Step 1: Navigate to https://qa.fintechmart.o...ketplace/landing successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00006253ms: Step 3: Wait until Discover  exists started    [MsgId: MMSG-205180]
+t=00008566ms: Step 3: Wait until Discover  exists successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_001_Launch_URL" ended with a "Pass" status (Duration: 7.3510 Think Time: 0.0060 Wasted Time: 2.8280).
+t=00009072ms: Step 4: Resize browser window to 1024px / 758px started    [MsgId: MMSG-205180]
+t=00010055ms: Step 4: Resize browser window to 1024px / 758px successfully completed with End Event "Step synchronous network completed"    [MsgId: MMSG-205180]
+t=00010064ms: Step 5: Wait 5 seconds started    [MsgId: MMSG-205180]
+t=00015275ms: Step 5: Wait 5 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_002_ClickSignUp" started.
+t=00015791ms: Step 6: Click on SIGN UP link started    [MsgId: MMSG-205180]
+t=00016942ms: Step 6: Click on SIGN UP link successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_002_ClickSignUp" ended with a "Pass" status (Duration: 1.1560 Wasted Time: 0.9070).
+t=00016948ms: Step 7: Wait 5 seconds started    [MsgId: MMSG-205180]
+t=00022159ms: Step 7: Wait 5 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00022663ms: Step 8: Click on email@email.com textbox started    [MsgId: MMSG-205180]
+t=00023109ms: Step 8: Click on email@email.com textbox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00023620ms: Step 9: Type TC.getParam("Email"); in email@email.com textbox started    [MsgId: MMSG-205180]
+t=00023625ms: Warning -205179: The TC.getParam API is deprecated because it is synchronous. Use the asynchronous "Generic API" step instead.    [MsgId: MWAR-205179]
+t=00035015ms: Step 9: Type nftbddb102@4up3vtaxujpdm2.tk in email@email.com textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00035025ms: Step 10: Wait 5 seconds started    [MsgId: MMSG-205180]
+t=00040237ms: Step 10: Wait 5 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "01C_OnBoard_User_003_Click_Onboard_User" started.
+t=00040750ms: Step 11: Click on ONBOARD AS USER button started    [MsgId: MMSG-205180]
+t=00043888ms: Step 11: Click on ONBOARD AS USER button successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00043897ms: Step 12: Wait until First name label exists started    [MsgId: MMSG-205180]
+t=03289710ms: Error -205177: Step 12: Wait until First name label exists failed - Target object was not found. Identification Method: Automatic       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+Notify: Transaction "01C_OnBoard_User_003_Click_Onboard_User" ended with a "Fail" status (Duration: 3248.8720 Think Time: 0.0060 Wasted Time: 0.4390).
+Notify: Transaction "01C_OnBoard_User_003_Click_Onboard_User" has 1 error message(s).
+Notify: The 1st error message associated with transaction "01C_OnBoard_User_003_Click_Onboard_User" is "Error -205177: Step 12: Wait until First name label exists failed - Target object was not found. Identification Method: Automatic"
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
